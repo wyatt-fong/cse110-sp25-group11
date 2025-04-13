@@ -4,6 +4,10 @@
 
 ## About our Team
 
-**Mia Chen - Team Member**
+#### Mia
 
-Hi! My name is Mia, pronouns are she/her. I am a 2nd year CS major in Sixth College. In my free time, I enjoy being outdoors (I'm from Seattle, WA so I love hiking in the mountains there) and cooking. Here is my [Github profile link.](https://github.com/miachen67)
+Hi! I am a 2nd year Computer Science major at UCSD, Sixth College. See my Github profile [here](https://github.com/miachen67).
+
+In my free time, I enjoy:
+* Being outdoors - hiking, running, surfing 🏔️
+* Cooking/eating yummy food 🥘🍱
