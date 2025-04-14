@@ -24,3 +24,38 @@ Hello! I'm a third-year at UCSD majoring in Computer Science. Some of my hobbies
 * Undergoing big-back activities 🧋🍱
   
 A fun fact about me is I recently travelled to Boston to compete in the annual National Collegiate Team Tournament representing UCSD
+
+#### Lucas
+ <img src="photos/lucas.jpeg" width="125" height="120"><br>
+ 
+ Hii! I'm a second-year Computer Science major here at UCSD. Some hobbies of mine are:
+ * cooking Asian dishes
+ * playing the guitar (i suck)
+ * playing video games with friends 
+   
+ Fun Fact: I've tried to learn Chinese 4 different times in my life meaning its been around 10 years, yet I still can't speak the language 😭
+
+#### **Verania Salcido**
+ <img src="photos/optimized.jpg" width="125" height="160"><br>
+ Hello! My name is Verania Salcido and I'm currently a 3rd year Computer Science major at Muir college! 
+ 
+ A little bit about me:
+ - I love getting sweet treats 🍬 🍭
+ - I love doom scrolling on tiktok 📱🤳
+ -  See my Github profile [here](https://github.com/vesalcido)!
+
+
+#### Khang
+<img src="photos/khang.png" width="125" height="120"><br>
+
+Hi! I'm a 2nd year UCSD student majoring in Computer Science and minoring in Cognitive Science. 
+
+Here is my [GitHub Page](https://github.com/khanggn)
+
+When I have free time I like to:
+* Go to the gym or a run 🏃‍♂️
+* Binge Youtube or Netflix
+* Sleep
+* Eat
+
+Fun Fact: I have a Pokemon card addiction and its not healthy.
