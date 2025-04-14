@@ -87,3 +87,15 @@ Hi! I am a 2nd year Computer Science major at UCSD, Muir College. See my Github 
 In my free time, I enjoy:
 * Scuba Diving💧
 * Going to theme parks🎢
+
+### Aryan
+<img src="photos/aryan.jpg" width="125" height="170"><br>
+
+Hey! I'm a third year CS transfer student at Warren College! Feel free to check out my [GitHub Page](https://github.com/pycoder49)
+
+Anyway, aside from rotting away all day in my room, here's a few things I LOVE doing:
+
+1) Plyaing Badminton/Volleyball/PingPong (am I good in any of those though? No)
+2) Making origami
+3) Eeating out and trying new cafes!
+4) Rotting in my room
