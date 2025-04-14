@@ -16,6 +16,8 @@ During my free time, I love to
 
 Fun fact: I love cooking fusion dishes that can offend multiple cultures at the same time 🥘👨‍🍳
 
+[View my personal GitHub Page](https://github.com/Sachin-dot-py).
+
 #### Wyatt
 <img src="photos/headshot.jpg" width="125" height="120"><br>
 
