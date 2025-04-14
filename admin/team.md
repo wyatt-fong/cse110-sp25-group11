@@ -69,3 +69,11 @@ Aside from programming, some of my hobbies include:
 - Drawing (I hope to be a freelance artist on the side one day)
 - Listening to music (favorite band of all time is My Chemical Romance)
 - Playing video games (fun fact: I've been playing Smash Bros since I was 8) 
+
+#### Mia
+<img src = "photos/mia.JPG" width="125" height="120"><br>
+Hi! I am a 2nd year Computer Science major at UCSD, Sixth College. See my Github profile [here](https://github.com/miachen67).
+
+In my free time, I enjoy:
+* Being outdoors - hiking, running, surfing 🏔️
+* Cooking/eating yummy food 🥘🍱
