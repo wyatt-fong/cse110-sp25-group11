@@ -24,13 +24,3 @@ Hello! I'm a third-year at UCSD majoring in Computer Science. Some of my hobbies
 * Undergoing big-back activities 🧋🍱
   
 A fun fact about me is I recently travelled to Boston to compete in the annual National Collegiate Team Tournament representing UCSD
-
-
-#### **Verania Salcido**
-<img src="photos/optimized.jpg" width="125" height="160"><br>
-Hello! My name is Verania Salcido and I'm currently a 3rd year Computer Science major at Muir college! 
-
-A little bit about me:
-- I love getting sweet treats 🍬 🍭
-- I love doom scrolling on tiktok 📱🤳
--  See my Github profile [here](https://github.com/vesalcido)!
