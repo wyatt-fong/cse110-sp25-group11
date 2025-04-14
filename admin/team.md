@@ -79,3 +79,11 @@ Hi! I am a 2nd year Computer Science major at UCSD, Sixth College. See my Github
 In my free time, I enjoy:
 * Being outdoors - hiking, running, surfing 🏔️
 * Cooking/eating yummy food 🥘🍱
+
+#### Benjamin
+<img src = "photos/ben.JPG" width="125" height="150"><br>
+Hi! I am a 2nd year Computer Science major at UCSD, Muir College. See my Github profile [here](https://github.com/BenMiller0).
+
+In my free time, I enjoy:
+* Scuba Diving
+* Going to theme parks
