@@ -71,7 +71,7 @@ Aside from programming, some of my hobbies include:
 - Playing video games (fun fact: I've been playing Smash Bros since I was 8) 
 
 #### Mia
-<img src = "photos/mia.JPG" width="125" height="120"><br>
+<img src = "photos/mia.JPG" width="125" height="150"><br>
 Hi! I am a 2nd year Computer Science major at UCSD, Sixth College. See my Github profile [here](https://github.com/miachen67).
 
 In my free time, I enjoy:
